@@ -1,6 +1,6 @@
 # til
 
-#1. What is the difference between IDE and text editor?
+# 1. What is the difference between IDE and text editor?
 
 IDE(Integrated Development Environment)
 IDE is a software application that provides the feature of software development to programmers.This can be used as a text editor but since it provides important features like compiling ,debugging etc these are considered heavy and are not opted for simple text modification purpose.
@@ -9,7 +9,7 @@ Text Editors
 Text editors on the other hand are light weight application software which are used for modification of text files.
 Some common Text Editors available are Notepad and Visual Studio Code
 
-#2. What are the features of Intellij over Eclipse?
+# 2. What are the features of Intellij over Eclipse?
 Eclipse community is declining at a high rate where as intellij community is still growing, hence for any kind of issue ,there is a high chance of getting a solution for intellij as compared to eclipse in coming future.
 There are few important points due to which intellij is way better than eclipse
 Debugging
